@@ -35,7 +35,7 @@ Users can explore anime titles and view official production / streaming links.
 ## 📦 Installation & Setup
 
 ```bash
-git clone https://github.com/your-username/anime-explorer.git
+git clone https://github.com/klee3/anime-explorer.git
 cd anime-explorer
 pnpm install
 pnpm dev
